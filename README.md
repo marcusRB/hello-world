@@ -7,14 +7,3 @@ print('Hello Team')
 
 print("Helo, Noe")
 
-print ("Hello all")
-
-cambio en la nube
-
-Prueba tropecientosmil
-
-vamos a develop
-
-probando feature
-
-prueba a las 22:08
