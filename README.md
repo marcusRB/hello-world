@@ -17,3 +17,10 @@ Añadimos carpetas, realizamos los pasos esenciales en Git y GitHub
 - **git add .**
 - **git commit -m "mensaje y descripción"**
 - **git push origin** *branch*
+
+Para realizar un *pull request* al repositorio original hay que realizar lo siguiente:
+
+- COMPARE *bran origin* versus *branch fork*
+- CREATE **PULL REQUEST** , indicar título y comentario
+
+Si aparece **APTO PARA MERGE** listo y esperar el estatus del Pull.
