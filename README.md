@@ -13,4 +13,6 @@ Aquí explicaremos la funcionalidades de github , markdown, etc etc
 
 5.- Seguimos tocando mandanga en branch secundaria
 
+6.- Creando conflicto en rama Juantest1
+
 
